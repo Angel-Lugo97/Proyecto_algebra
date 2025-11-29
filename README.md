@@ -203,7 +203,9 @@ $$\begin{pmatrix}
 1 & 13
 \end{pmatrix}
 $$ 
- $$\cdot\
+$$
+ \cdot\
+$$
  $$begin{pmatrix}
 7 \\
 4
