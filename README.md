@@ -1,4 +1,31 @@
 # Tecnológico de Software
+
+# Índice
+
+1. [Objetivo](#objetivo)
+2. [Cifrado Hill](#cifrado-hill)
+3. [Conceptos básicos del Cifrado Hill](#conceptos-básicos-del-cifrado-hill)
+4. [Proceso de cifrado con Hill](#proceso-de-cifrado-con-hill)
+    1. [Matriz de clave](#a)
+    2. [Preparación del texto](#2-preparación-del-texto)
+    3. [Multiplicación de la matriz clave](#3-multiplicación-de-la-matriz-clave-con-el-vector-de-texto)
+    4. [Repetir para cada bloque](#4-repetir-para-cada-bloque)
+5. [Proceso de descifrado](#proceso-de-descifrado)
+    1. [Calcular la matriz inversa](#1-calcular-la-matriz-inversa-de--k-)
+    2. [Deshacer el proceso de cifrado](#2-deshacer-el-proceso-de-cifrado)
+6. [Ejemplo de cifrado y descifrado](#ejemplo-de-cifrado-y-descifrado-con-hill)
+7. [Estructura del proyecto](#estructura-del-proyecto)
+8. [Instrucciones de uso](#%EF%B8%8F-instrucciones-de-uso)
+9. [Interfaz de usuario](#interfaz-de-usuario)
+10. [Paleta de colores](#paleta-de-colores-purple--dark-pastel)
+11. [Tipografías](#tipografías-google-fonts)
+12. [Iconografía y estilo general](#iconografía-y-estilo-general)
+13. [Estilo de las cajas de resultado](#estilo-de-las-cajas-de-resultado)
+14. [Estado de error](#estado-de-error)
+15. [Layout general](#layout-general)
+16. [Despliegue](#despligue-de-calculadora)
+17. [Control de versiones](#control-de-versiones)
+
 ## Materia: Fundamentos de álgebra
 ## Alumno: Angel Abraham Lugo Saenz
 ## Grupo: B
@@ -379,3 +406,16 @@ Además:
 -   Diseño centrado y responsivo
     
 -   Orden limpio para facilitar la interacción del usuario
+## Despligue de calculadora
+[Encriptación Hill](https://angellugo.netlify.app/)
+# Control de versiones
+
+[](https://github.com/bylev/EncriptacionHill?tab=readme-ov-file#control-de-versiones)
+
+El proyecto está versionado con Git, con commits que reflejan:
+
+-   Creación de estructura base (HTML/CSS).
+-   Implementación del cifrado Hill.
+-   Agregado de desencriptación con matriz inversa módulo 26.
+-   Validaciones y manejo de errores.
+-   Ajustes visuales y despliegue en Netlify.
