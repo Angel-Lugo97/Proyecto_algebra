@@ -157,19 +157,14 @@ Bloque 1: "HE" →
 | 7 |
 | 4 |
 
-nginx
-Copy code
-
 Bloque 2: "LL" →
 | 11 |
 | 11 |
 
-nginx
-Copy code
-
 Bloque 3: "LO" →
 | 11 |
 | 14 |
+
 #### 3. **Multiplicación de la matriz clave con el vector de texto**
 
   
