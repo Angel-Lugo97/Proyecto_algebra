@@ -171,11 +171,12 @@ Bloque 3: "LO" →
 
 Para cifrar cada bloque, multiplicamos la matriz clave $K$ por el vector que representa el bloque de texto. Supongamos que tenemos la matriz clave $K$ como:
 
-$K =
+$$K =
 \begin{pmatrix}
 6 & 24 \\
 1 & 13
-\end{pmatrix}$
+\end{pmatrix}
+$$
 
 Ahora, ciframos el primer bloque:
 
