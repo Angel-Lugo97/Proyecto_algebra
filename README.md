@@ -154,28 +154,28 @@ H = 7, E = 4, L = 11, L = 11, O = 14
 
 Entonces, los bloques serían:
 - **Bloque 1**: "HE" →  
-  $$
+  $
   \begin{pmatrix}
   7 \\
   4
   \end{pmatrix}
-  $$
+  $
 
 - **Bloque 2**: "LL" →  
-  $$
+  $
   \begin{pmatrix}
   11 \\
   11
   \end{pmatrix}
-  $$
+  $
 
 - **Bloque 3**: "LO" →  
-  $$
+  $
   \begin{pmatrix}
   11 \\
   14
   \end{pmatrix}
-  $$
+  $
 
 #### 3. **Multiplicación de la matriz clave con el vector de texto**
 
