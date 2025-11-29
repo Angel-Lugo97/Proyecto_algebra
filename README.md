@@ -1,4 +1,8 @@
 # Tecnológico de Software
+## Materia: Fundamentos de álgebra
+## Alumno: Angel Abraham Lugo Saenz
+## Grupo: B
+## Actividad #16.  Matrices documentación
 
 # Índice
 
@@ -25,11 +29,6 @@
 15. [Layout general](#layout-general)
 16. [Despliegue](#despligue-de-calculadora)
 17. [Control de versiones](#control-de-versiones)
-
-## Materia: Fundamentos de álgebra
-## Alumno: Angel Abraham Lugo Saenz
-## Grupo: B
-## Actividad #16.  Matrices documentación
 
 ### Objetivo
 Realizar un programa que implemente el cifrado y el des-encriptado hill, de los tados atraves de matrices.
