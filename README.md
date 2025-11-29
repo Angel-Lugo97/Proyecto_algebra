@@ -223,13 +223,16 @@ $$
 $$
 
 =
-$$\begin{pmatrix}
+$$
+\begin{pmatrix}
 138 \mod 26 \\
 59 \mod 26
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 
 =
-$$ \begin{pmatrix}
+$$ 
+\begin{pmatrix}
 8 \\
 7
 \end{pmatrix}
