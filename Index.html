@@ -4,12 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Encriptación Hill</title>
-    <link rel="stylesheet" href="style.css">
+
+    <!-- Archivo CSS -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
+
 <body>
     <div class="container">
         <h1>Encriptación Hill</h1>
-        
+
         <div class="section">
             <label for="mensaje">Mensaje (máx. 30 caracteres)</label>
             <textarea id="mensaje" maxlength="30" placeholder="Escribe tu mensaje aquí..."></textarea>
@@ -32,13 +38,23 @@
         </div>
 
         <button id="encriptar">Encriptar</button>
+        <button id="desencriptar">Desencriptar</button>
 
         <div class="section">
-            <h3>Resultado</h3>
+            <h3>Resultado Encriptado</h3>
             <div id="resultado" class="resultado-box"></div>
         </div>
+
+        <div class="section">
+            <h3>Resultado Desencriptado</h3>
+            <div id="resultadoDes" class="resultado-box"></div>
+        </div>
+
+        <footer>Escribe aquí</footer>
     </div>
 
+    <!-- Archivo JavaScript -->
     <script src="script.js"></script>
+
 </body>
-</html> 
+</html>
