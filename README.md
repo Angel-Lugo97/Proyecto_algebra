@@ -183,7 +183,8 @@ EncriptacionHill/
 ├── README.md       # Documentación del proyecto
 ├── index.html      # Interfaz principal
 ├── style.css       # Estilos y diseño
-└── script.js       #  Lógica de encriptación y desencriptación
+└── script.js       # Lógica de encriptación y desencriptación
+
 
 ---
 
