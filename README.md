@@ -198,6 +198,7 @@ K \cdot
 $$
 
 =
+
 $$\begin{pmatrix}
 6 & 24 \\
 1 & 13
