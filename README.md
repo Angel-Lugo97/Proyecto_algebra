@@ -179,10 +179,11 @@ Después de realizar la multiplicación de matrices, obtenemos el texto cifrado 
 ---
 
 ### Estructura del proyecto
+
 EncriptacionHill/
 ├── README.md       # Documentación del proyecto
 ├── index.html      # Interfaz principal
-├── style.css       # Estilos y diseño
+├── style.css       # Estilos y diseñogit 
 └── script.js       # Lógica de encriptación y desencriptación
 
 
