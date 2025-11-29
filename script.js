@@ -134,4 +134,4 @@ btnDesencriptar.addEventListener('click', () => {
     const finalConFormato = reconstruirFormato(mapaOriginal, desencriptado);
     resultadoDes.textContent = finalConFormato;
     resultadoDes.classList.remove('error');
-});
+}); 
